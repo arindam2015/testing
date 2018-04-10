@@ -21,3 +21,16 @@ user.name=Arindam Kotal
 user.email=arindam.kotal@gmail.com
 branch.auto=setup
 branch.auto=setup
+
+$ git init
+Initialized empty Git repository in C:/git_workspace/git-testing/.git/
+
+arindam@arindam-PC MINGW32 /c/git_workspace/git-testing (master)
+$ git add git_command.txt
+
+arindam@arindam-PC MINGW32 /c/git_workspace/git-testing (master)
+$ git commit -m "it is initial version"
+[master (root-commit) cded067] it is initial version
+ 1 file changed, 23 insertions(+)
+ create mode 100644 git_command.txt
+
