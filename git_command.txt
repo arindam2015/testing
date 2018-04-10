@@ -1,0 +1,23 @@
+Git Commands:
+
+$ git --version
+Showing version of the Git installed
+$ git config --global user.name "Arindam Kotal"
+$ git config --global user.name
+Arindam Kotal
+$ git config --list
+core.symlinks=false
+core.autocrlf=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+pack.packsizelimit=2g
+help.format=html
+http.sslcainfo=C:/Program Files/Git/mingw32/ssl/certs/ca-bundle.crt
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+user.name=Arindam Kotal
+user.email=arindam.kotal@gmail.com
+branch.auto=setup
+branch.auto=setup
